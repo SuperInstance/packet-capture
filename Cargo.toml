@@ -1,0 +1,10 @@
+[package]
+name = "packet-capture"
+version = "0.1.0"
+edition = "2021"
+description = "Packet parsing and capture with protocol dissection for TCP/UDP/ICMP headers"
+license = "MIT OR Apache-2.0"
+authors = ["SuperInstance"]
+repository = "https://github.com/SuperInstance/packet-capture"
+keywords = ["packet", "network", "tcp", "udp", "icmp"]
+categories = ["network-programming", "parser-implementations"]
